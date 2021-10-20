@@ -1,2 +1,0 @@
-# yediser-server
-yediser server
